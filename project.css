@@ -1,0 +1,47 @@
+body{background-image:url(gd.jpg) ;
+background-size: 100% 100% ;
+background-repeat: no-repeat
+background-position; justify;}
+div{font-size: 500%;
+font-family: monospace;
+text-align: center;}
+div{color:rgb(3, 11, 56);}
+h1{color:rgb(3, 11, 56);}
+form{border:solid 2px #d1e0eb;
+font-size: 120%;
+font-family: cursive;
+color: cornsilk;}
+p{color: beige;
+font-size:150% ;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+h3{color: cornsilk;
+font-size: 120%;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+form button{background-color: rgb(32, 55, 160););
+    border-radius: 5px;
+    display: block;
+    font-family: inherit;
+    font-size: 16px ;
+    padding: 20x;
+    width:10%}
+
+
+
+div b {
+    animation-name: Nourhan;
+    animation-duration: 4s;
+}
+@keyframes Nourhan {
+    0% {
+        color: yellow;
+    }
+    25% {
+        color: green;
+    }
+    75% {
+        color: rgb(219, 165, 39);
+    }
+    100% {
+        color: blue;}
+     
